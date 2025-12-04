@@ -1,5 +1,5 @@
 # Rapido-Internship
-Rapido — Captain Retention & Engagement Strategy
+Rapido - Captain Retention & Engagement Strategy
 
 Strategy & Operations Intern | Rapido (Bike Taxi & Mobility Platform)
 Author: Subhayu Paul, IIT Kharagpur
