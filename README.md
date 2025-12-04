@@ -82,8 +82,8 @@ Research & Strategy Intern | Rapido (Bike Taxi & Mobility Platform)
 * Insurance & rental solutions lowering entry barriers for thousands of captains.
 * Actionable roadmap for rural + women captain inclusion.
 
-📎 Project Deck  
-[Click here to view/download the Final Completion Deck](./Rapido_Final_Completion_Deck.pptx)
+📎Deck  
+[Click here to view/download the Final Completion Deck](https://github.com/Subhayu-005/Rapido-Internship/blob/main/Rapido%20Deck.pdf)
 
 
 
