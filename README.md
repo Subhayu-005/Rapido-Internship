@@ -11,7 +11,7 @@ Research & Strategy Intern | Rapido (Bike Taxi & Mobility Platform)
    My goal was simple:
    Decode captain behaviour → Find gaps → Build solutions that improve earnings, fairness, and belonging.
 
-🎯 What I Actually Did (Consulting-Style Summary)
+🎯 What I Actually Did 
 
 1. Understanding Attrition & Retention Drivers
 
