@@ -2,7 +2,6 @@
 Rapido — Captain Retention & Engagement Strategy
 
 Research & Strategy Intern | Rapido (Bike Taxi & Mobility Platform)
-Author:Subhayu Paul, IIT Kharagpur
 
 👋 Project Overview
 
