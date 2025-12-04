@@ -35,7 +35,7 @@ Author:Subhayu Paul, IIT Kharagpur
 
 4. Incentive & Benefit Design
 
-  Designed a time-based incentive model projected to:
+   Designed a time-based incentive model projected to:
 
   * Reduce churn by ~18%
   * Increase online time by ~22%
@@ -76,7 +76,7 @@ Author:Subhayu Paul, IIT Kharagpur
 * Excel / Sheets, Python (pandas), Notion, Figma
 * Deck-making & stakeholder presentation skills
 
-## 📌 Impact Snapshot
+📌 Impact Snapshot
 
 * Projected 18% reduction in attrition.
 * Projected 22% increase in captain online hours.
